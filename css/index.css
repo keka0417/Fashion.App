@@ -17,7 +17,7 @@ body {
 }
 
 #home {
-    background-image: url("./images/ファッション.jpg");
+    background-image: url("../images/ファッション.jpg");
     min-height: 100vh;
 }
 
@@ -121,7 +121,7 @@ img {
 }
 
 .wrapper2 {
-    background-image: url(./images/ファッション.jpg);
+    background-image: url(../images/ファッション.jpg);
     min-height: 100％;
 }
 
